@@ -6,8 +6,8 @@
         5255,
 	768
       ],
-      "tensorPath": "https://raw.githubusercontent.com/biltmire/RedditHostEmbeds/master/embeddings/desc_vecs_0_10000.tsv",
-      "metadataPath": "https://raw.githubusercontent.com/biltmire/RedditHostEmbeds/master/embeddings/desc_meta_0_10000.tsv"
+      "tensorPath": "https://raw.githubusercontent.com/biltmire/RedditHostEmbeds/main/embeddings/desc_vecs_0_10000.tsv",
+      "metadataPath": "https://raw.githubusercontent.com/biltmire/RedditHostEmbeds/main/embeddings/desc_meta_0_10000.tsv"
     }
   ]
 }
