@@ -1,0 +1,13 @@
+{
+  "embeddings": [
+    {
+      "tensorName": "Host Description BERT embeddings",
+      "tensorShape": [
+        5255,
+	768
+      ],
+      "tensorPath": "https://raw.githubusercontent.com/biltmire/RedditHostEmbeds/master/embeddings/desc_vecs_0_10000.tsv",
+      "metadataPath": "https://raw.githubusercontent.com/biltmire/RedditHostEmbeds/master/embeddings/desc_meta_0_10000.tsv"
+    }
+  ]
+}
